@@ -50,4 +50,4 @@ This design is based on a Figma file provided in the project assets. The colors,
 
 ## 🌍 Live Demo
 
-You can access the live demo of this page [here](https://your-demo-link.com).
+You can access the live demo of this page [here](https://tailwind-landing-page-sable.vercel.app/).
